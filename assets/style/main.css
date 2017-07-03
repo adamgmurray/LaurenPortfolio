@@ -1,0 +1,16 @@
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-style: normal!important;
+  font-weight: normal;
+}
+h1{
+font-family: 'Abril Fatface', cursive;
+}
+body {
+font-family: 'Josefin Sans', sans-serif;
+}
